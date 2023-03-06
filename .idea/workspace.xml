@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="988ac1a7-ce91-424f-bb15-f4550dee117b" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2KrtUMvICcW4PHfzw8vr4Cqzuix" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/store-admin/src/main/resources" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.hxf.admin.service" />
+      <recent name="com.hxf.order.service" />
+      <recent name="com.hxf.cart.service" />
+      <recent name="com.hxf.collect.mapper" />
+      <recent name="com.hxf.collect.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/store-admin/src/main/resources" />
+      <recent name="$PROJECT_DIR$/store-front-category/src/main/resources" />
+      <recent name="$PROJECT_DIR$/store-front-product/src/main/resources" />
+      <recent name="$PROJECT_DIR$/store-static/src/main/resources" />
+      <recent name="$PROJECT_DIR$/store-front-user/src/main/resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/store-front-order/src/main/resources/mapper" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MavenRunConfiguration" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.OrderApplication">
+    <configuration name="AdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="store-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hxf.admin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hxf.admin.AdminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="store-front-cart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hxf.cart.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hxf.cart.CartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CategoryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="store-front-category" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hxf.category.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hxf.category.CategoryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CollectApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="store-front-collect" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hxf.collect.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hxf.collect.CollectApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="store-front-order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hxf.order.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hxf.order.OrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.AdminApplication" />
+      <item itemvalue="Spring Boot.CategoryApplication" />
+      <item itemvalue="Spring Boot.CartApplication" />
+      <item itemvalue="Spring Boot.CollectApplication" />
+      <item itemvalue="Spring Boot.OrderApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.AdminApplication" />
+        <item itemvalue="Spring Boot.OrderApplication" />
+        <item itemvalue="Spring Boot.CollectApplication" />
+        <item itemvalue="Spring Boot.CartApplication" />
+        <item itemvalue="Spring Boot.CategoryApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="988ac1a7-ce91-424f-bb15-f4550dee117b" name="变更" comment="" />
+      <created>1674744543779</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674744543779</updated>
+      <workItem from="1674744545319" duration="1838000" />
+      <workItem from="1674746732420" duration="1398000" />
+      <workItem from="1674813676570" duration="5698000" />
+      <workItem from="1674911051583" duration="5457000" />
+      <workItem from="1674981643106" duration="8393000" />
+      <workItem from="1675079812339" duration="2250000" />
+      <workItem from="1675082252937" duration="427000" />
+      <workItem from="1675082700029" duration="4837000" />
+      <workItem from="1675163114405" duration="4733000" />
+      <workItem from="1675246744533" duration="5536000" />
+      <workItem from="1675328896743" duration="2438000" />
+      <workItem from="1675336833922" duration="1049000" />
+      <workItem from="1675404085913" duration="10342000" />
+      <workItem from="1675509854663" duration="187000" />
+      <workItem from="1675518888515" duration="854000" />
+      <workItem from="1675519828652" duration="3146000" />
+      <workItem from="1675589509366" duration="5888000" />
+      <workItem from="1675682064031" duration="5032000" />
+      <workItem from="1675744115473" duration="8515000" />
+      <workItem from="1675841271303" duration="6347000" />
+      <workItem from="1675923500222" duration="6522000" />
+      <workItem from="1676010067123" duration="10520000" />
+      <workItem from="1676111413679" duration="6691000" />
+      <workItem from="1676202483271" duration="7047000" />
+      <workItem from="1676261866686" duration="14746000" />
+      <workItem from="1676350082180" duration="9703000" />
+      <workItem from="1676440360846" duration="498000" />
+      <workItem from="1676878071519" duration="646000" />
+      <workItem from="1678083586577" duration="1266000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

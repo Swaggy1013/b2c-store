@@ -1,0 +1,12 @@
+/Users/swaggy1013/Desktop/Desktop/Code/b2c-store/store-front-product/src/main/java/com/hxf/product/ProductApplication.java
+/Users/swaggy1013/Desktop/Desktop/Code/b2c-store/store-front-product/src/main/java/com/hxf/product/controller/ProductAdminController.java
+/Users/swaggy1013/Desktop/Desktop/Code/b2c-store/store-front-product/src/main/java/com/hxf/product/mapper/ProductMapper.java
+/Users/swaggy1013/Desktop/Desktop/Code/b2c-store/store-front-product/src/main/java/com/hxf/product/controller/ProductController.java
+/Users/swaggy1013/Desktop/Desktop/Code/b2c-store/store-front-product/src/main/java/com/hxf/product/config/ProductConfiguration.java
+/Users/swaggy1013/Desktop/Desktop/Code/b2c-store/store-front-product/src/main/java/com/hxf/product/controller/ProductCollectController.java
+/Users/swaggy1013/Desktop/Desktop/Code/b2c-store/store-front-product/src/main/java/com/hxf/product/listener/ProductRabbitMqListener.java
+/Users/swaggy1013/Desktop/Desktop/Code/b2c-store/store-front-product/src/main/java/com/hxf/product/mapper/PictureMapper.java
+/Users/swaggy1013/Desktop/Desktop/Code/b2c-store/store-front-product/src/main/java/com/hxf/product/service/impl/ProductServiceImpl.java
+/Users/swaggy1013/Desktop/Desktop/Code/b2c-store/store-front-product/src/main/java/com/hxf/product/controller/ProductSearchController.java
+/Users/swaggy1013/Desktop/Desktop/Code/b2c-store/store-front-product/src/main/java/com/hxf/product/service/ProductService.java
+/Users/swaggy1013/Desktop/Desktop/Code/b2c-store/store-front-product/src/main/java/com/hxf/product/controller/ProductCartController.java

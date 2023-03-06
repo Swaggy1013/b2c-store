@@ -1,0 +1,45 @@
+# 配置网关
+spring:
+  cloud:
+    gateway:
+      routes:
+        - id: user-service
+          uri: lb://user-service
+          predicates:
+            - Path=/user/**  # 访问user路径转发用户服务
+        - id: product-service # 此名称随意定义
+          uri: lb://product-service #使用负载均衡,调用服务名,这是服务名
+          predicates:
+            - Path=/product/** # 访问product相关,转发到product服务
+        - id: static-service # 此名称随意定义
+          uri: lb://static-service #使用负载均衡,调用服务名,这是服务名
+          predicates:
+            - Path=/public/** # 访问product相关,转发到product服务
+        - id: carousel-service # 此名称随意定义
+          uri: lb://carousel-service #使用负载均衡,调用服务名,这是服务名
+          predicates:
+            - Path=/carousel/** # 访问product相关,转发到product服务
+        - id: category-service # 此名称随意定义
+          uri: lb://category-service #使用负载均衡,调用服务名,这是服务名
+          predicates:
+            - Path=/category/** # 访问product相关,转发到product服务
+        - id: search-service # 此名称随意定义
+          uri: lb://search-service #使用负载均衡,调用服务名,这是服务名
+          predicates:
+            - Path=/search/** # 访问product相关,转发到product服务
+        - id: collect-service  # 收藏服务
+          uri: lb://collect-service
+          predicates:
+            - Path=/collect/**
+        - id: cart-service  # 收藏服务
+          uri: lb://cart-service
+          predicates:
+            - Path=/cart/**
+        - id: order-service  # 收藏服务
+          uri: lb://order-service
+          predicates:
+            - Path=/order/**
+        - id: admin-service  # 收藏服务
+          uri: lb://admin-service
+          predicates:
+            - Path=/admin/**
