@@ -51,7 +51,7 @@ aliyun:
   oss:
     file:
       # 控制台 - oss - 点击对应桶 - 概览 - 地域节点
-      endpoint: oss-cn-fuzhou.aliyuncs.com
-      keyid: LTAI5t75ykdSi6yinDF6MUuT
-      keysecret: 8uVrQSltNlR13dST1hYUEkja55ZLLH
-      bucketname: b2c-store1013
+      endpoint: 
+      keyid: 
+      keysecret: 
+      bucketname: 
